@@ -53,9 +53,9 @@
 ---
 
 ## 💬 Conectemos
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square">](https://www.linkedin.com/in/tu-perfil)
-[<img src="https://img.shields.io/badge/-Email-c14438?logo=gmail&style=flat-square">](mailto:tu@email)
-[<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square">](https://t.me/tuusuario)
+[<img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square">](https://www.instagram.com/ferrevalen/)
+[<img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square">](mailto:tu@email.com)
+
 
 ---
 
