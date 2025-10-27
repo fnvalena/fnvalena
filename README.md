@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/" width="96" alt="avatar"/>
+  👩🏽‍💻🚀
 </p>
 
 <h1 align="center">Hola, soy Valentina 👋</h1>
