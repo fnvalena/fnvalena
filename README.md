@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hola, soy Valentina 👋</h1>
-<p align="center">Analista programador en formación · Me gusta construir APIs simples y seguras.</p>
+<p align="center">Engineering en formación· Me gusta construir APIs simples y seguras.</p>
 
 ---
 
-## 🔭 Actualmente
-- Estudio Analista Programador (2025).  
-- Trabajando en proyectos personales: **InventoryAPI**, **Chat-support-bot**.  
+## 🔭 Actualmente  
+- Trabajando en proyectos personales: **InventoryAPI**, **Chat-support-bot**.
+- HSP- Coquimbo para red Minsal 
 - Abierta a colaborar en Spring / Node.js backend.
 
 ---
