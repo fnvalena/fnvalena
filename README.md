@@ -65,10 +65,9 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Usar GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fnvalena&show_icons=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8&icon_color=3B82F6&border_color=3B82F6" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fnvalena&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8&icon_color=3B82F6&border_color=3B82F6&ring=3B82F6&fire=A78BFA" alt="streak"/>
 </p>
 
 ---
