@@ -64,15 +64,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
-## 📁 Proyectos destacados
-- **InventoryAPI** — API REST para gestión de stock. • `Node.js`, `Express`, `Postgres`. (🔗 repo)  
-- **LandingCV** — Portfolio personal responsive. • `React`, `Netlify`. (🔗 demo)  
-- **Mini-scraper** — Script para extraer datos y guardarlos en SQLite. (🔗 repo)
-
-> Pinea 2 o 3 repos en tu perfil para que la gente los vea primero.
-
----
-
 ## 📊 GitHub Stats
 <!-- Usar GitHub Readme Stats -->
 <p align="center">
